@@ -143,6 +143,16 @@ p(D|θ) = ∏ᵢN(mᵢ - pᵢ(θ), 0, σ)
 ```
 python -m venv env
 ```
+Активируйте виртуальное окружение
+Windows:
+```
+.\venv\Scripts\activate
+```
+Linux/MacOS
+```
+source venv/bin/activate
+```
+
 Скачайте все необходимые библиотеки из requirements.txt, находясь в той же папке где и файл
 ```
 pip install -r requirements.txt
