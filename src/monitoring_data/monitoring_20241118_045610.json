@@ -1,0 +1,33 @@
+{
+    "timestamp": "2024-11-17T20:56:18.119329",
+    "measurements": {
+        "accelerometer": {
+            "acc_0_x": 1.5775317566284244,
+            "acc_0_y": 1.6518828803567442,
+            "acc_0_z": 1.6759114014290657
+        },
+        "wind": {
+            "speed": 5.020794019437279,
+            "direction": 157.04068741254648
+        }
+    },
+    "analysis": {
+        "frequencies": [
+            0.004722222222222222,
+            0.007638888888888889
+        ],
+        "damage_indicators": {
+            "max_amplitude": 2.1546716485718305,
+            "rms": 3.0604686582323977,
+            "kurtosis": -0.20738480001358361
+        }
+    },
+    "decision": {
+        "status": "normal",
+        "severity_score": 0.0,
+        "warnings": [],
+        "recommended_actions": [
+            "Продолжение штатного мониторинга"
+        ]
+    }
+}
